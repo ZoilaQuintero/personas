@@ -1,5 +1,9 @@
 import { Injectable } from '@angular/core';
+<<<<<<< HEAD
 import { HttpClient, HttpParams } from '@angular/common/http';
+=======
+import { HttpClient } from '@angular/common/http';
+>>>>>>> b057da6 (first commit)
 import { Observable } from 'rxjs';
 import { Persona } from '../interfaces/personas.interface';
 
